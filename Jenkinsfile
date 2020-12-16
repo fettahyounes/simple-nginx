@@ -1,7 +1,7 @@
 IMAGE_REPOSITORY = "simple-nginx"
 
 // For available target clusters, contact your platform administrator
-TARGET_CLUSTER_DOMAIN = "kubernetes.docker.internal"
+TARGET_CLUSTER_DOMAIN = "test"
 
 // Available orchestrators = [ "kubernetes" | "swarm" ]
 ORCHESTRATOR = "kubernetes"
